@@ -5,4 +5,4 @@ from odoo import models, fields, api
 class Spaceship(models.Model):
     
     _name = 'training.spaceship'
-    _description = 'spaceship Info'
+    _description = 'Spaceship Model Info'
